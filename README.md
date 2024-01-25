@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Sample Project
 
-## Getting Started
 
-First, run the development server:
+#Output
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Screenshot from 2024-01-25 10-30-42](https://github.com/seriouspatowary/car-rent-website/assets/84088321/d317c85e-389f-454e-bb81-0e30622f4ebc)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+  ![Screenshot from 2024-01-25 10-30-52](https://github.com/seriouspatowary/car-rent-website/assets/84088321/b61bea9f-9904-4500-a00c-d8af0be8f5d0)
+  
+![Screenshot from 2024-01-25 10-30-58](https://github.com/seriouspatowary/car-rent-website/assets/84088321/7765ae4d-fe5f-482a-b6f3-82e0de5c02dd)
